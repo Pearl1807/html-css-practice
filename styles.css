@@ -3,6 +3,11 @@ body{
     font-family: "roboto", arial;
 }
 
+.search-bar{
+    border: solid;
+    color: red;
+}
+
 .thumbnail{
     width: 100%;
 }
